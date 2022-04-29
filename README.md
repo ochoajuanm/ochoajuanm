@@ -4,12 +4,13 @@ My name is Juan and I'm Python developer and my background is Electrical enginee
 
 - 🌱 Currently learning data engineering and backend frameworks
 - 👯 Looking to collaborate on real engineering projects to gain valuable insights for the business in question.
--  My knowledges:
+
+My knowledges:
   - 📊Data Analysis and visualization with Python. 
   - 🤖Machine Learning and Deep Learning: Algorithms and Python most used libraries
   - 🖥️Technologies that I use:
     - Data engineering and Big Data: Airflow, Spark, Hadoop
-    - Data Science and IA: Anaconda environment
+    - Data science and IA: Anaconda environment
     - Databases: PostgreSQL, MySQL, MongoDB
     - Data viz: Tableau, Power BI, Data Studio
     - Project management: Jira
