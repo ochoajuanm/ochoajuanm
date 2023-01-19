@@ -1,20 +1,19 @@
-### Hi there 👋
+### Hi there 👋😄
 
-My name is Juan and I'm Python developer and my background is Electrical engineering 
+My name is Juan and I am a professional data engineer focused on data infrastructure development, with experience in creating data processing pipelines, storage and analysis. I am passionate about working with large volumes of data and finding scalable and efficient solutions for data collection, integration and analysis.
 
-- 🌱 Currently learning data engineering and backend frameworks
-- 👯 Looking to collaborate on real engineering projects to gain valuable insights for the business in question.
+My experience includes:
 
-My knowledges:
-  - 📊Data Analysis and visualization with Python. 
-  - 🤖Machine Learning and Deep Learning: Algorithms and Python most used libraries
-  - 🖥️Technologies that I use:
-    - Data engineering and Big Data: Airflow, Spark, Hadoop
-    - Data science and IA: Anaconda environment
-    - Databases: PostgreSQL, MySQL, MongoDB
-    - Data viz: Tableau, Power BI, Data Studio
-    - Project management: Jira
-    - Containerization: Docker
+- Handling of relational and non-relational databases on Azure (Azure SQL) and on-premises (PostgresSQL, SQL Server)
+- Design and implementation of ETL pipelines using Azure Data Factory and Apache Airflow
+- Utilization of data analysis tools on Azure such as Azure Databricks and Apache Spark
+- Experience with containerization using Docker
+- Knowledge in data security and compliance on Azure
+- Knowledge in agile methodologies and good software development practices
+- Experience with Azure DevOps for CI/CD pipeline
+- Low-code development using the Microsoft stack (Power Apps, Power Automate, SharePoint)
+
+I am currently looking for new challenges and opportunities to continue growing in my career. Thank you for visiting my profile! 
 
 <!--
 **ochoajuanm/ochoajuanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
