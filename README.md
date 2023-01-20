@@ -1,5 +1,8 @@
 ### Hi there 👋😄
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/ochoajuanm)
+![GitHub followers](https://img.shields.io/github/followers/ochoajuanm?label=Follow&style=social)
+
 My name is Juan and I am a professional data engineer focused on data infrastructure development, with experience in creating data processing pipelines, storage and analysis. I am passionate about working with large volumes of data and finding scalable and efficient solutions for data collection, integration and analysis.
 
 My experience includes:
