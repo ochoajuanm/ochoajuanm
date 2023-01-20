@@ -7,6 +7,7 @@ My name is Juan and I am a professional data engineer focused on data infrastruc
 
 My experience includes:
 
+- Work with programming languages such as Python, SQL, Bash and Scala
 - Handling of relational and non-relational databases on Azure (Azure SQL) and on-premises (PostgresSQL, SQL Server)
 - Design and implementation of ETL pipelines using Azure Data Factory and Apache Airflow
 - Utilization of data analysis tools on Azure such as Azure Databricks and Apache Spark
